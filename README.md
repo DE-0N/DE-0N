@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DE-0N
-- 👀 I’m interested in ... digital arts
-- 🌱 I’m currently learning ... JavaScript/WebGL/3D
+- 👀 I’m interested in ... electronic music and digital arts
+- 🌱 I’m currently learning ... JavaScript/WebGL/3D/Lice coding
 - 💞️ I’m looking to collaborate on ... visual arts/motion graphics projects w/ music production and sound design
 - 📫 How to reach me ... deon.hq(at)gmail(dot)com
 
